@@ -1,0 +1,22 @@
+{
+  "name": "skku-node-stat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "skku-node-stat": "./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NamHyeon1/skku-node-stat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NamHyeon1/skku-node-stat/issues"
+  },
+  "homepage": "https://github.com/NamHyeon1/skku-node-stat#readme"
+}
