@@ -22,9 +22,6 @@ function toDec(numbers) {
     return numbers.reduce((prev, curr) => prev * 10 + curr, 0);
 }
 
-//exports.sum = sum;
-
-
 module.exports = {
     sum,
     avg,

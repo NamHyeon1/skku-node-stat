@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "bin": {
     "skku-node-stat": "./main.js"
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/NamHyeon1/skku-node-stat/issues"
   },
-  "homepage": "https://github.com/NamHyeon1/skku-node-stat#readme"
+  "homepage": "https://github.com/NamHyeon1/skku-node-stat#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
 }
